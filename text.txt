@@ -11,6 +11,9 @@
 3. Add files to Git
 	git init
 	git status
-	git add
+	git add .
 	git commit -m "Your commit message"
+	git push -u origin master
+
+
 
