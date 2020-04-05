@@ -1,0 +1,16 @@
+1. Check if Git is installed 
+	git --version
+2.Setup
+	git config --global user.name "xxx"
+	git config --global user.name
+
+	git config --global user.email "xxxxx"
+	git config --global user.email
+
+	git config --global --list
+3. Add files to Git
+	git init
+	git status
+	git add
+	git commit -m "Your commit message"
+
